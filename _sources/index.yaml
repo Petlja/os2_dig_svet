@@ -1,6 +1,6 @@
-courseId: courseID 
+courseId: digsvet2
 lang: en
-title: Petljadoc Course
+title: Дигитални свет за други разред
 description:
   willLearn: 
     - Preview of Petljadoc course
@@ -23,22 +23,13 @@ description:
 
 
 lessons:
-  - title: Lesson 1
+  - title: Увод
     guid: f0b38b55-73b1-419e-89a2-891ac93bceab
     description: Your first lesson. Description is not required attribute
-    folder: 1_Lesson
+    folder: 0_Uvod
     activities:
       - type: reading
-        title: Intro
-        file: intro.rst 
+        title: Увод
+        file: Uvod.rst 
         description: #Optional
         guid: 5fba6708-754e-4049-b13d-32f2fdf5b11c
-      - type: video
-        title: Video activity for your lesson
-        decription: Nice video
-        url: https://www.youtube.com/watch?v=2KYuzJKemXw
-        guid: 35300565-83f5-4fa8-8975-8808005b6fa8
-      - type: quiz
-        title: Test your students
-        file: quiz.rst
-        guid: fee82e29-8cba-4e33-be44-81b5485e8499
