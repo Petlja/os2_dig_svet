@@ -38,10 +38,13 @@
             :width: 30px
 
 .. |lk| image:: ../../_images/lk.png
-            :width: 70px
+            :width: 50px
 
 .. |pip| image:: ../../_images/pip.png
-            :width: 70px
+            :width: 50px
+
+.. |o| image:: ../../_images/o.png
+            :width: 50px
 
 .. |cet1| image:: ../../_images/cet1.png
             :width: 50px
@@ -67,13 +70,12 @@
 .. |cet8| image:: ../../_images/cet8.png
             :width: 50px
 
-.. |o| image:: ../../_images/o.png
-            :width: 70px
+
 
 .. infonote::
 
  .. image:: ../../_images/robot11.png
-    :height: 100
+    :height: 120
     :align: left
 
  Када урадиш све задатке и одговориш на сва питања у лекцији моћи ћеш да препознаш слике које су настале употребом дигиталног 
