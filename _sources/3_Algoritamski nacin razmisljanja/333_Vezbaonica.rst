@@ -4,10 +4,7 @@
 .. infonote::
 
  .. image:: ../../_images/robot31.png
-    :height: 100
+    :height: 120
     :align: left
 
- |
-
- |
-
+|
