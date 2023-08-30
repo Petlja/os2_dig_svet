@@ -1,0 +1,254 @@
+courseId: os2_dig_svet
+description:
+  externalLinks:
+  - href: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
+    text: Sphinx Docs
+  - href: https://github.com/Petlja/PetljaDoc/blob/master/README.md
+    text: Petljadoc
+  - href: https://github.com/RunestoneInteractive/overview
+    text: Runestone Interactive
+  longDescription: '<div class="document">
+
+    <p>This is an example of a long description...</p>
+
+    </div>
+
+    '
+  requirements:
+  - Petljadoc
+  - Runestone
+  - Sphinx
+  shortDescription: Дигитални свет за други разред
+  toc:
+  - Intro to Petljadoc INDEX.yaml
+  willLearn:
+  - Preview of Petljadoc course
+lang: sr-Cyrl
+lessons:
+- activities:
+  - description: ''
+    file: 100_Uvod.html
+    guid: 70615fde-aad1-409b-9397-2da3212e5e6d
+    normalized_title: Дигитално друштво
+    src: 100_Uvod.rst
+    title: Дигитално друштво
+    type: reading
+  - description: ''
+    file: 101_Ucenje pomocu digitalnih uredjaja.html
+    guid: 7720a7fe-7bf6-4299-928c-b0d1976fcbc9
+    normalized_title: Учење помоћу дигиталних уређаја
+    src: 101_Ucenje pomocu digitalnih uredjaja.rst
+    title: Учење помоћу дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 102_Skolska platforma za onlajn cas.html
+    guid: cc8f4a39-8d55-4224-bea3-47d69a569571
+    normalized_title: Школска платформа за онлајн час
+    src: 102_Skolska platforma za onlajn cas.rst
+    title: Школска платформа за онлајн час
+    type: reading
+  - description: ''
+    file: 103_Ucenje pomocu digitalnih udzbenika.html
+    guid: 6961b248-29d6-4d48-9364-a8b53a1740d5
+    normalized_title: Учење помоћу дигиталних уџбеника
+    src: 103_Ucenje pomocu digitalnih udzbenika.rst
+    title: Учење помоћу дигиталних уџбеника
+    type: reading
+  - description: ''
+    file: 104_Digitalna slika.html
+    guid: 4babb03a-3bb2-4aa5-bfdf-b269870c10a3
+    normalized_title: Дигитална слика
+    src: 104_Digitalna slika.rst
+    title: Дигитална слика
+    type: reading
+  - description: ''
+    file: 106_Iscrtavanje i bojenje oblika.html
+    guid: e22bab2a-462f-45cc-a4ba-b1af02e7d1af
+    normalized_title: Исцртавање и бојење облика
+    src: 106_Iscrtavanje i bojenje oblika.rst
+    title: Исцртавање и бојење облика
+    type: reading
+  - description: ''
+    file: 107_Premestanje i promena velicine.html
+    guid: 8a9e1992-f6ee-4864-9028-eaa46af0f17d
+    normalized_title: Одабир дела слике и манипулација њиме – премештање и промена
+      величине
+    src: 107_Premestanje i promena velicine.rst
+    title: Одабир дела слике и манипулација њиме – премештање и промена величине
+    type: reading
+  - description: ''
+    file: 109_Cuvanje i brisanje delova.html
+    guid: da5cfde9-317e-4138-9a45-9132fbe35b63
+    normalized_title: Одабир дела слике и манипулација њиме – чување и брисање делова
+      слике
+    src: 109_Cuvanje i brisanje delova.rst
+    title: Одабир дела слике и манипулација њиме – чување и брисање делова слике
+    type: reading
+  - description: ''
+    file: 110_Kopiranje odabranog dela slike.html
+    guid: b1e49968-62ad-4c97-be49-6666872c3504
+    normalized_title: Копирање одабраног дела слике
+    src: 110_Kopiranje odabranog dela slike.rst
+    title: Копирање одабраног дела слике
+    type: reading
+  - description: ''
+    file: 112_Obrni svet naglavacke.html
+    guid: 998ab0ef-f9b7-4176-85b4-3047eabdbc82
+    normalized_title: Oбрни свет наглавачке
+    src: 112_Obrni svet naglavacke.rst
+    title: Oбрни свет наглавачке
+    type: reading
+  - description: ''
+    file: 113_Nase digitalne slike.html
+    guid: ea7adbd8-1082-4e6b-862e-ae9d15264b53
+    normalized_title: Наше дигиталне слике
+    src: 113_Nase digitalne slike.rst
+    title: Наше дигиталне слике
+    type: reading
+  - description: ''
+    file: 115_Pokretne slike.html
+    guid: 87403710-53b6-454d-9d57-1ceeb94a96db
+    normalized_title: Покретне слике
+    src: 115_Pokretne slike.rst
+    title: Покретне слике
+    type: reading
+  - description: ''
+    file: 116_Napravi svoj animirani film.html
+    guid: f31a70c2-68ad-489d-8d61-a3679d0c479d
+    normalized_title: Направи свој анимирани филм
+    src: 116_Napravi svoj animirani film.rst
+    title: Направи свој анимирани филм
+    type: reading
+  - description: ''
+    file: 118_Povezivanje sa drugim uredjajima.html
+    guid: 5b35dc34-c868-40c5-9e0b-85cf0e1ef80b
+    normalized_title: Повезивање дигиталних уређаја са другим дигиталним уређајима
+    src: 118_Povezivanje sa drugim uredjajima.rst
+    title: Повезивање дигиталних уређаја са другим дигиталним уређајима
+    type: reading
+  - description: ''
+    file: 120_Digitalno drustvo.html
+    guid: 0d2c4962-e366-4c84-8561-d08ff8722eca
+    normalized_title: Дигитално друштво
+    src: 120_Digitalno drustvo.rst
+    title: Дигитално друштво
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 1_Digitalno drustvo
+  guid: fe99c4a7-78a4-4518-9472-d92e2d67a6b8
+  normalized_title: Дигитално друштво
+  title: Дигитално друштво
+- activities:
+  - description: ''
+    file: 221_Digitalna komunikacija.html
+    guid: 9a01e350-fe3e-445b-ba45-cb29dbe09a10
+    normalized_title: Дигитална комуникација
+    src: 221_Digitalna komunikacija.rst
+    title: Дигитална комуникација
+    type: reading
+  - description: ''
+    file: 222_Dobre i lose strane.html
+    guid: 34b2b3a3-b646-4d58-ae76-75b38f54c412
+    normalized_title: Добре и лоше стране комуникације путем дигиталних уређаја
+    src: 222_Dobre i lose strane.rst
+    title: Добре и лоше стране комуникације путем дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 223_Internet bonton.html
+    guid: e3f9eb54-5e35-41af-bae7-8198bc4b3201
+    normalized_title: Интернет бонтон
+    src: 223_Internet bonton.rst
+    title: Интернет бонтон
+    type: reading
+  - description: ''
+    file: 224_Bezbednost.html
+    guid: f20038d2-3d43-4a27-a3e5-f1eee3c6a1e0
+    normalized_title: Безбедност информација сачуваних на дигиталном уређају
+    src: 224_Bezbednost.rst
+    title: Безбедност информација сачуваних на дигиталном уређају
+    type: reading
+  - description: ''
+    file: 225_Elektronski otpad je opasan.html
+    guid: 20c97d6c-c89f-4281-bb22-707e14b1920e
+    normalized_title: Електронски отпад је опасан
+    src: 225_Elektronski otpad je opasan.rst
+    title: Електронски отпад је опасан
+    type: reading
+  - description: ''
+    file: 226_Bezbedno koriscenje digitalnih uredjaja.html
+    guid: 9a2371cf-f5e4-4b62-8128-76f4b5b213fb
+    normalized_title: Безбедно коришћење дигиталних уређаја
+    src: 226_Bezbedno koriscenje digitalnih uredjaja.rst
+    title: Безбедно коришћење дигиталних уређаја
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 2_Bezbedno koriscenje digitalnih uredjaja
+  guid: e35f0406-5b44-4b36-9882-45db9af5d058
+  normalized_title: Безбедно коришћење дигиталних уређаја
+  title: Безбедно коришћење дигиталних уређаја
+- activities:
+  - description: ''
+    file: 327_Algoritam.html
+    guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
+    normalized_title: Алгоритам
+    src: 327_Algoritam.rst
+    title: Алгоритам
+    type: reading
+  - description: ''
+    file: 328_Algoritmi ponavljanja.html
+    guid: d8fb7594-de0a-4b23-becb-cc0db9a5de98
+    normalized_title: Алгоритми понављања
+    src: 328_Algoritmi ponavljanja.rst
+    title: Алгоритми понављања
+    type: reading
+  - description: ''
+    file: 329_Od algoritma do programa.html
+    guid: 48da8b76-060a-4445-943b-20c4d4267f56
+    normalized_title: Од алгоритма до програма за дигиталне уређаје
+    src: 329_Od algoritma do programa.rst
+    title: Од алгоритма до програма за дигиталне уређаје
+    type: reading
+  - description: ''
+    file: 330_Nizanje naredbi u Skrecu.html
+    guid: 6f7524db-124f-4b61-8e36-551a03793164
+    normalized_title: Низање наредби у програмском језику Скреч
+    src: 330_Nizanje naredbi u Skrecu.rst
+    title: Низање наредби у програмском језику Скреч
+    type: reading
+  - description: ''
+    file: 331_Ponavljanje u Skrecu.html
+    guid: aefc1cb9-b7a1-46fc-a4f1-2db69d192a84
+    normalized_title: Понављање блокова наредби у програму Скреч
+    src: 331_Ponavljanje u Skrecu.rst
+    title: Понављање блокова наредби у програму Скреч
+    type: reading
+  - description: ''
+    file: 333_Vezbaonica.html
+    guid: 2596c2f6-9261-42d0-b08a-91db81394071
+    normalized_title: Вежбаоница
+    src: 333_Vezbaonica.rst
+    title: Вежбаоница
+    type: reading
+  - description: ''
+    file: 334_Upravljanje ponasanjem digitalnog uredjaja.html
+    guid: 6f1ef34a-3ee8-47ce-8b51-a18620ad62c6
+    normalized_title: Управљање понашањем дигиталног уређаја
+    src: 334_Upravljanje ponasanjem digitalnog uredjaja.rst
+    title: Управљање понашањем дигиталног уређаја
+    type: reading
+  - description: ''
+    file: 336_Algoritamski nacin razmisljanja.html
+    guid: 9d8451c2-6616-4379-ab23-42903c05ac81
+    normalized_title: Алгоритамски начин размишљања
+    src: 336_Algoritamski nacin razmisljanja.rst
+    title: Алгоритамски начин размишљања
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 3_Algoritamski nacin razmisljanja
+  guid: 39077015-75eb-48d3-87d0-8286fbcf3b11
+  normalized_title: Алгоритамски начин размишљања
+  title: Алгоритамски начин размишљања
+title: Дигитални свет за други разред
