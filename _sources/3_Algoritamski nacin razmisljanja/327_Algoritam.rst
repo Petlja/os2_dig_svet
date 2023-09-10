@@ -16,7 +16,7 @@
 |
 
 .. image:: ../../_images/kolaci.png
-   :height: 500
+   :height: 400
    :align: center
 
 .. questionnote::
