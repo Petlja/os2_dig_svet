@@ -9,22 +9,84 @@ description:
     text: Runestone Interactive
   longDescription: '<div class="document">
 
-    <p>This is an example of a long description...</p>
+    <p>Овај курс је намењен ученицима другог разреда основне школе за предмет Дигитални
+    свет.
+
+    У оквиру курса детаљно су обрађене наставне теме предвиђене програмом наставе
+    и учења за овај предмет.</p>
+
+    <p>Поред рада у школи, курс се може пролазити и самостално.</p>
+
+    <p>&lt;p&gt;
+
+    &lt;a rel=&quot;license&quot; href=&quot;<a class="reference external" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">https://creativecommons.org/licenses/by/4.0/deed.sr_LATN</a>&quot;&gt;
+
+    &lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot;
+    src=&quot;https://i.creativecommons.org/l/by/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+
+    &lt;br /&gt;Овај курс Фондација Петља објавила je под лиценцом &lt;a rel=&quot;license&quot;
+    href=&quot;https://creativecommons.org/licenses/by/4.0/deed.sr_LATN&quot;&gt;Creative
+    Commons Autorstvo 4.0 Međunarodna Licenca (CC BY 4.0)&lt;/a&gt;.
+
+    &lt;/p&gt;</p>
 
     </div>
 
     '
   requirements:
-  - Petljadoc
-  - Runestone
-  - Sphinx
+  - Персонални рачунар са оперативним системом Windows  и приступом интернету
   shortDescription: Дигитални свет за други разред
   toc:
   - Intro to Petljadoc INDEX.yaml
   willLearn:
-  - Preview of Petljadoc course
+  - како да користиш школску платформу за онлајн учење (уз помоћ наставника и/или
+    родитеља/законског заступника);
+  - како да самостално користиш дигиталне уџбенике за учење;
+  - како да креираш, чуваш и поново уређујешдигитална слика (самостално и/или уз помоћ
+    наставника) користећи одговарајућу апликацију;
+  - шта су покретне слике;
+  - како да креираш елементе покретне слике;
+  - како да креираш једноставан графички дигитални материјал намењен познатој публици;
+  - због чега се дигитални уређаји повезују на мреже, укључујући интернет;
+  - које су  могућности за размену материјала, комуникацију и заједнички рад (учење)
+    пружају захваљујући умрежавању дигиталних уређаја.
+  - које  су добре стране и изазови комуникације путем дигиталних уређаја;
+  - која је разлика између неприхватљивог од прихватљивог понашања при комуникацији
+    на интернету;
+  - како да  на одговарајући начин реагујеш aко дођеш у додир са непримереним дигиталним
+    садржајем, непознатим, злонамерним особама или особама које комуницирају на неприхватљив
+    начин;
+  - на који начин корисници дигиталних уређаја остављају личне податке  у дигиталном
+    окружењу;
+  - како да организујеш сопствено учење у онлајн окружењу на начин који не угрожава
+    здравље и личну безбедност, као и сигурност дигиталног уређаја. – предложи начине
+    одлагања електронског отпада који не угрожавај уживотну средину;
+  - да својим речима објасниш појам алгоритам;
+  - алгоритамски представиш једноставан познати поступак који садржи понављања одређених
+    радњи;
+  - да креираш одговарајући рачунарски програм у визуелном програмском језику;
+  - да објасниш шта и на који начин ради једноставан програм креиран у визуелном програмском
+    језику;
+  - да уочиш и исправиш грешку у једноставном програму, провериш ваљаност новог решења
+    и по потреби га додатно поправиш (самостално или сараднички);
+  - да креираш програм у визуелном програмском језику који управља понашањем физичког
+    дигиталног уређаја.
 lang: sr-Cyrl
 lessons:
+- activities:
+  - description: ''
+    file: 0_1_Uvod.html
+    guid: f11a822a-90aa-4579-a0b1-7ee34bc656bf
+    normalized_title: Добродошли у Дигитални свет!
+    src: 0_1_Uvod.rst
+    title: Добродошли у Дигитални свет!
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 0_Uvod
+  guid: c8d4f106-8a79-4891-bd37-5c4986a5391b
+  normalized_title: Увод
+  title: Увод
 - activities:
   - description: ''
     file: 100_Uvod.html
@@ -141,6 +203,13 @@ lessons:
   title: Дигитално друштво
 - activities:
   - description: ''
+    file: 200_Bezbedno koriscenje digitalnih uredjaja.html
+    guid: 1accef50-55d6-4fa0-b9fe-aeea7c7a5c0d
+    normalized_title: Безбедно коришћење дигиталних уређаја
+    src: 200_Bezbedno koriscenje digitalnih uredjaja.rst
+    title: Безбедно коришћење дигиталних уређаја
+    type: reading
+  - description: ''
     file: 221_Digitalna komunikacija.html
     guid: 9a01e350-fe3e-445b-ba45-cb29dbe09a10
     normalized_title: Дигитална комуникација
@@ -189,6 +258,13 @@ lessons:
   normalized_title: Безбедно коришћење дигиталних уређаја
   title: Безбедно коришћење дигиталних уређаја
 - activities:
+  - description: ''
+    file: 300_Algoritamski nacin razmisljanja.html
+    guid: 3955bd16-5548-4086-ad99-a2a0a97aaa2b
+    normalized_title: Алгоритамски начин размишљања
+    src: 300_Algoritamski nacin razmisljanja.rst
+    title: Алгоритамски начин размишљања
+    type: reading
   - description: ''
     file: 327_Algoritam.html
     guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
