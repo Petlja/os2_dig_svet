@@ -74,9 +74,9 @@
  |
 
  .. image:: ../../_images/pib.png
-     :width: 700
-     :align: center
-     :target: https://pametnoibezbedno.gov.rs/
+    :width: 700
+    :align: center
+    :target: https://pametnoibezbedno.gov.rs/
 
 |
 

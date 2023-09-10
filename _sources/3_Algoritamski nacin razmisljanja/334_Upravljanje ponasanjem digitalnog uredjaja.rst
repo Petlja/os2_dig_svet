@@ -185,6 +185,7 @@
 
 
 .. mchoice:: p334а
+   :hide_labels:
    :answer_a: Ниједном
    :answer_b: Једном
    :answer_c: Два пута
