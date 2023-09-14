@@ -2,9 +2,9 @@
 
 Ovaj repozitorijum posvećen je kursu za Digitalni svet za drugi razred. 
 
-Kurs je na Petljom portalu dotupan ovde: [https://petlja.org/kurs/11200/0](https://petlja.org/kurs/11200/0)
+Kurs je na Petljinom portalu dotupan ovde: [https://petlja.org/kurs/11200/0](https://petlja.org/kurs/11200/0)
 
-Kurs možete itegrisati u svoj LMS koristeći SCORM pakete koji se mogu preuzeti sa: https://github.com/Petlja/os2_dig_svet/releases
+Kurs možete integrisati u svoj LMS koristeći SCORM pakete koji se mogu preuzeti sa: https://github.com/Petlja/os2_dig_svet/releases
 
 ## Konverzija u *HTML*
 
