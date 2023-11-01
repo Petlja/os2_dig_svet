@@ -54,7 +54,7 @@
 |
 
 .. image:: ../../_images/povezivanje.png
-    :width: 780
+    :width: 700
     :align: center
 
 |
@@ -99,7 +99,7 @@
 |
 
 .. image:: ../../_images/povezivanje2.png
-    :width: 780
+    :width: 700
     :align: center
 
 |
@@ -136,7 +136,7 @@
 |
 
 .. image:: ../../_images/povezivanje5.png
-    :width: 780
+    :width: 700
     :align: center
 
 |

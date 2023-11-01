@@ -17,7 +17,7 @@
 |
 
 .. image:: ../../_images/bojanka2.png
-    :width: 780
+    :width: 700
     :align: center
 
 |
@@ -31,7 +31,7 @@
 |
 
 .. image:: ../../_images/slika.png
-    :width: 780
+    :width: 700
     :align: center
 
 
