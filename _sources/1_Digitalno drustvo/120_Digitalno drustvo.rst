@@ -1,7 +1,7 @@
 Дигитално друштво
 =================
 
-.. |kv| image:: ../../_images/kv.png
+.. |kv| image:: ../../_images/povezivanje5.png
             :width: 15px
 
 .. infonote::
