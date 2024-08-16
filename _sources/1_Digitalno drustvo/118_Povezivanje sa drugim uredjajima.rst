@@ -88,8 +88,8 @@
 
 |
 
-.. image:: ../../_images/slika.png
-    :width: 600
+.. image:: ../../_images/paketi_put.png
+    :width: 70%
     :align: center
 
 |

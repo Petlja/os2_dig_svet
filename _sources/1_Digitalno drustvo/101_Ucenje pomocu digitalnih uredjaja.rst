@@ -26,11 +26,10 @@
 
 -----------
 
-.. Пажљиво погледај слику. 
+Пажљиво погледај слику. 
 
-.. |
 
-.. .. image:: ../../_images/slika.png
+.. image:: ../../_images/DIGI_UCIONICA-01.png
     :width: 700
     :align: center
 

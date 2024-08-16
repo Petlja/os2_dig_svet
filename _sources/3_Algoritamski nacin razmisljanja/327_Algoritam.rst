@@ -48,8 +48,8 @@
 
 |
 
-.. image:: ../../_images/slika.png
-   :height: 300
+.. image:: ../../_images/naja_algoritam-01.png
+   :width: 70%
    :align: center
 
 Упореди своје решење са решењима твојих другова и другарица.

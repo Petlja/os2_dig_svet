@@ -85,8 +85,8 @@
 
 |
 
-.. image:: ../../_images/slika.png
-   :width: 600
+.. image:: ../../_images/mapa_telefon.png
+   :width: 80%
    :align: center
 
 |

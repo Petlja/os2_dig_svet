@@ -134,7 +134,7 @@
 |
 
 .. image:: ../../_images/robot23.png
-    :height: 200
+    :height: 100
     :align: right
 
 --------------
@@ -143,8 +143,8 @@
 
 |
 
-.. image:: ../../_images/slika.png
-    :width: 400
+.. image:: ../../_images/kruzenje_vode-01.png
+    :width: 70%
     :align: center
 
 |
