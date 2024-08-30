@@ -116,11 +116,6 @@ lessons:
         description: #Optional
         guid: 998ab0ef-f9b7-4176-85b4-3047eabdbc82
       - type: reading
-        title: Наше дигиталне слике
-        file: 113_Nase digitalne slike.rst 
-        description: #Optional
-        guid: ea7adbd8-1082-4e6b-862e-ae9d15264b53
-      - type: reading
         title: Покретне слике
         file: 115_Pokretne slike.rst 
         description: #Optional
@@ -220,3 +215,6 @@ lessons:
         file: 336_Algoritamski nacin razmisljanja.rst 
         description: #Optional
         guid: 9d8451c2-6616-4379-ab23-42903c05ac81
+
+archived: 
+  - guid: ea7adbd8-1082-4e6b-862e-ae9d15264b53
