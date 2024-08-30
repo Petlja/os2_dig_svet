@@ -108,6 +108,10 @@
     :width: 780
     :align: center
 
+.. image:: ../../_images/Putovanje_paketa.png
+    :width: 780
+    :align: center
+
 ------------
 
 

@@ -140,18 +140,17 @@
 
 |
 
-|
 
-
-    .. image:: ../../_images/obrni4.png
-     :width: 600
-     :align: center
+.. image:: ../../_images/obrni4.png
+    :width: 400
+    :align: center
 
 Потребно је да их окренеш као на слици. 
 
+|
 
-    .. image:: ../../_images/obrni5.png
-     :width: 600
-     :align: center
+.. image:: ../../_images/obrni5.png
+    :width: 400
+    :align: center
 
 Уз помоћ родитеља или блиске одрасле особе сачувај слику.
