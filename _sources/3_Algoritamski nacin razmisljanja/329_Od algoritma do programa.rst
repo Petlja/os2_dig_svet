@@ -65,8 +65,7 @@
 Скреч окружење 
 
 .. ytpopup:: xB4VMIIKXj0
-    :width: 735
-    :height: 415
+    :width: 780
     :align: center
 
 ----------------
