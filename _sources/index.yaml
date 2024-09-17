@@ -66,72 +66,72 @@ lessons:
     folder: 1_Digitalno drustvo
     activities:
       - type: reading
-        title: Учење помоћу дигиталних уређаја
+        title: 1. Учење помоћу дигиталних уређаја
         file: 101_Ucenje pomocu digitalnih uredjaja.rst 
         description: #Optional
         guid: 7720a7fe-7bf6-4299-928c-b0d1976fcbc9
       - type: reading
-        title: Школска платформа за онлајн час
+        title: 2. Школска платформа за онлајн час
         file: 102_Skolska platforma za onlajn cas.rst 
         description: #Optional
         guid: cc8f4a39-8d55-4224-bea3-47d69a569571
       - type: reading
-        title: Учење помоћу дигиталних уџбеника
+        title: 3. Учење помоћу дигиталних уџбеника
         file: 103_Ucenje pomocu digitalnih udzbenika.rst
         description: #Optional
         guid: 6961b248-29d6-4d48-9364-a8b53a1740d5
       - type: reading
-        title: Дигитална слика
+        title: 4. Дигитална слика
         file: 104_Digitalna slika.rst
         description: #Optional
         guid: 4babb03a-3bb2-4aa5-bfdf-b269870c10a3
       - type: reading
-        title: Исцртавање и бојење облика
+        title: 5. Исцртавање и бојење облика
         file: 106_Iscrtavanje i bojenje oblika.rst 
         description: #Optional
         guid: e22bab2a-462f-45cc-a4ba-b1af02e7d1af
       - type: reading
-        title: Одабир дела слике и премештање
+        title: 6. Одабир дела слике и премештање
         file: 107_Premestanje i promena velicine.rst 
         description: #Optional
         guid: 8a9e1992-f6ee-4864-9028-eaa46af0f17d
       - type: reading
-        title: Промена величине слике
+        title: 7. Промена величине слике
         file: 108_Promena veličine slike.rst
         description: #Optional
         guid: d325bf26-cd67-4129-b981-9b56b84e11c3
       - type: reading
-        title: Чување и брисање делова слике
+        title: 8. Чување и брисање делова слике
         file: 109_Cuvanje i brisanje delova.rst 
         description: #Optional
         guid: da5cfde9-317e-4138-9a45-9132fbe35b63
       - type: reading
-        title: Копирање одабраног дела слике
+        title: 9. Копирање одабраног дела слике
         file: 110_Kopiranje odabranog dela slike.rst 
         description: #Optional
         guid: b1e49968-62ad-4c97-be49-6666872c3504
       - type: reading
-        title: Oбрни свет наглавачке
+        title: 10. Oбрни свет наглавачке
         file: 112_Obrni svet naglavacke.rst 
         description: #Optional
         guid: 998ab0ef-f9b7-4176-85b4-3047eabdbc82
       - type: reading
-        title: Покретне слике
+        title: 11. Покретне слике
         file: 115_Pokretne slike.rst 
         description: #Optional
         guid: 87403710-53b6-454d-9d57-1ceeb94a96db
       - type: reading
-        title: Направи свој анимирани филм
+        title: 12. Направи свој анимирани филм
         file: 116_Napravi svoj animirani film.rst 
         description: #Optional
         guid: f31a70c2-68ad-489d-8d61-a3679d0c479d
       - type: reading
-        title: Повезивање дигиталних уређаја са другим дигиталним уређајима
+        title: 13. Повезивање дигиталних уређаја са другим дигиталним уређајима
         file: 118_Povezivanje sa drugim uredjajima.rst 
         description: #Optional
         guid: 5b35dc34-c868-40c5-9e0b-85cf0e1ef80b
       - type: reading
-        title: Дигитално друштво
+        title: 14. Дигитално друштво
         file: 120_Digitalno drustvo.rst 
         description: #Optional
         guid: 0d2c4962-e366-4c84-8561-d08ff8722eca
@@ -141,32 +141,32 @@ lessons:
     folder: 2_Bezbedno koriscenje digitalnih uredjaja
     activities:
       - type: reading
-        title: Дигитална комуникација
+        title: 15. Дигитална комуникација
         file: 221_Digitalna komunikacija.rst 
         description: #Optional
         guid: 9a01e350-fe3e-445b-ba45-cb29dbe09a10
       - type: reading
-        title: Добре и лоше стране комуникације путем дигиталних уређаја
+        title: 16. Добре и лоше стране комуникације путем дигиталних уређаја
         file: 222_Dobre i lose strane.rst 
         description: #Optional
         guid: 34b2b3a3-b646-4d58-ae76-75b38f54c412
       - type: reading
-        title: Интернет бонтон
+        title: 17. Интернет бонтон
         file: 223_Internet bonton.rst 
         description: #Optional
         guid: e3f9eb54-5e35-41af-bae7-8198bc4b3201
       - type: reading
-        title: Безбедност информација сачуваних на дигиталном уређају
+        title: 18. Безбедност информација сачуваних на дигиталном уређају
         file: 224_Bezbednost.rst 
         description: #Optional
         guid: f20038d2-3d43-4a27-a3e5-f1eee3c6a1e0
       - type: reading
-        title:  Електронски отпад је опасан
+        title: 19. Електронски отпад је опасан
         file: 225_Elektronski otpad je opasan.rst 
         description: #Optional
         guid: 20c97d6c-c89f-4281-bb22-707e14b1920e
       - type: reading
-        title: Безбедно коришћење дигиталних уређаја
+        title: 20. Безбедно коришћење дигиталних уређаја
         file: 226_Bezbedno koriscenje digitalnih uredjaja.rst 
         description: #Optional
         guid: 9a2371cf-f5e4-4b62-8128-76f4b5b213fb
@@ -176,42 +176,42 @@ lessons:
     folder: 3_Algoritamski nacin razmisljanja
     activities: 
       - type: reading
-        title: Алгоритам
+        title: 21. Алгоритам
         file: 327_Algoritam.rst 
         description: #Optional
         guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
       - type: reading
-        title: Алгоритми понављања
+        title: 22. Алгоритми понављања
         file: 328_Algoritmi ponavljanja.rst 
         description: #Optional
         guid: d8fb7594-de0a-4b23-becb-cc0db9a5de98
       - type: reading
-        title: Од алгоритма до програма за дигиталне уређаје
+        title: 23. Од алгоритма до програма за дигиталне уређаје
         file: 329_Od algoritma do programa.rst
         description: #Optional
         guid: 48da8b76-060a-4445-943b-20c4d4267f56
       - type: reading
-        title: Низање наредби у програмском језику Скреч
+        title: 24. Низање наредби у програмском језику Скреч
         file: 330_Nizanje naredbi u Skrecu.rst 
         description: #Optional
         guid: 6f7524db-124f-4b61-8e36-551a03793164
       - type: reading
-        title: Понављање блокова наредби у програму Скреч
+        title: 25. Понављање блокова наредби у програму Скреч
         file: 331_Ponavljanje u Skrecu.rst 
         description: #Optional
         guid: aefc1cb9-b7a1-46fc-a4f1-2db69d192a84
       - type: reading
-        title: Вежбаоница
+        title: 26. Вежбаоница
         file: 333_Vezbaonica.rst 
         description: #Optional
         guid: 2596c2f6-9261-42d0-b08a-91db81394071
       - type: reading
-        title: Управљање понашањем дигиталног уређаја
+        title: 27. Управљање понашањем дигиталног уређаја
         file: 334_Upravljanje ponasanjem digitalnog uredjaja.rst 
         description: #Optional
         guid: 6f1ef34a-3ee8-47ce-8b51-a18620ad62c6
       - type: reading
-        title: Алгоритамски начин размишљања
+        title: 28. Алгоритамски начин размишљања
         file: 336_Algoritamski nacin razmisljanja.rst 
         description: #Optional
         guid: 9d8451c2-6616-4379-ab23-42903c05ac81
