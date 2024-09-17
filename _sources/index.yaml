@@ -101,7 +101,7 @@ lessons:
         description: #Optional
         guid: d325bf26-cd67-4129-b981-9b56b84e11c3
       - type: reading
-        title: Одабир дела слике и манипулација њиме – чување и брисање делова слике
+        title: Чување и брисање делова слике
         file: 109_Cuvanje i brisanje delova.rst 
         description: #Optional
         guid: da5cfde9-317e-4138-9a45-9132fbe35b63
