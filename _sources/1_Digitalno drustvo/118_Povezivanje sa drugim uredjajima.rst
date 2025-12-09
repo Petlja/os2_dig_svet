@@ -73,9 +73,7 @@
    :align: center
    
    "|laptop|", "|sporet|", "|ajfon|"
-   
    "|frizider|", "|pametni_sat|", "|racunar|"
-   
    "|klima|", "|televizor|", "|tablet|"
    
 
